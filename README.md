@@ -1,9 +1,11 @@
 MedLedger 🏥🔗
 ---------
 A blockchain-based credential management system for secure and verifiable digital credentials.
+
 Overview 🌐
 ---------
 MedLedger enables authorized entities to issue, verify, and revoke digital credentials on the Ethereum blockchain, ensuring tamper-proof record-keeping for professional qualifications.
+
 Key Features ✨
 -------------------
 Role-Based Access Control 🔑
